@@ -1,0 +1,18 @@
+{
+  "description": "Native ACRE token",
+  "denom_units": [
+    {
+      "denom": "aacre",
+      "exponent": 0,
+      "aliases": ["aacre"]
+    },
+    {
+      "denom": "ACRE",
+      "exponent": 18
+    }
+  ],
+  "base": "aacre",
+  "display": "ACRE",
+  "name": "ACRE",
+  "symbol": "ACRE"
+}
